@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: null
+subtitle: marine biologist • deep-sea
 published: true
 ---
 I’m a PhD student in the Department of Biology & CESAM at the University of Aveiro @ Portugal, supervised by Marina R. Cunha and Joan B. Company (CSIC-ICM @ Spain)
