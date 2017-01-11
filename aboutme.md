@@ -4,7 +4,7 @@ title: About me
 subtitle: work in progress...
 published: true
 ---
-I’m a PhD student in the Department of Biology & CESAM at the University of Aveiro (Portugal), supervised by Marina R. Cunha and Joan B. Company (CSIC-ICM | Spain)
+I’m a PhD student in the Department of Biology & CESAM at the University of Aveiro @ Portugal, supervised by Marina R. Cunha and Joan B. Company (CSIC-ICM @ Spain)
 
 **what I do:** 
 working with ecological and biophysical modeling combined with network analysis to study submarine canyons connectivity for management and conservation purposes.
