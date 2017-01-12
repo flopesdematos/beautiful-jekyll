@@ -25,13 +25,13 @@ fmatos@ua.pt
  
 **Projects**
  
-2014/2016 - MCES: The Economic Valuation and Governance of Marine and Coastal Ecosystem Services [see details](http://www.cesam.ua.pt/index.php?menu=200&language=eng&tabela=projectosdetail&projectid=646) 
+2014/2016 - MCES: The Economic Valuation and Governance of Marine and Coastal Ecosystem Services [(see details)](http://www.cesam.ua.pt/index.php?menu=200&language=eng&tabela=projectosdetail&projectid=646) 
 
-2011/2014 - DeepForams: Deepsea foraminifera from the Portuguese Margin [see details](http://www.cesam.ua.pt/index.php?menu=200&language=eng&tabela=projectosdetail&projectid=245)
+2011/2014 - DeepForams: Deepsea foraminifera from the Portuguese Margin [(see details)](http://www.cesam.ua.pt/index.php?menu=200&language=eng&tabela=projectosdetail&projectid=245)
 
-2009/2012 - HERMIONE: Hotspot Ecosystem Research and Man’s Impact on European Seas [see details](http://www.cesam.ua.pt/index.php?menu=200&language=eng&tabela=projectosdetail&projectid=286)
+2009/2012 - HERMIONE: Hotspot Ecosystem Research and Man’s Impact on European Seas [(see details)](http://www.cesam.ua.pt/index.php?menu=200&language=eng&tabela=projectosdetail&projectid=286)
 
-2008/2011 - CHEMECO:Monitoring colonisation processes in chemosynthetic ecosystems [see details](http://www.cesam.ua.pt/index.php?menu=200&language=eng&tabela=projectosdetail&projectid=289)
+2008/2011 - CHEMECO:Monitoring colonisation processes in chemosynthetic ecosystems [(see details)](http://www.cesam.ua.pt/index.php?menu=200&language=eng&tabela=projectosdetail&projectid=289)
  
 **Grants & Awards**
  
@@ -50,7 +50,7 @@ Biophysical modeling
 Deep-sea connectivity 
 Research mapping
 
-**Publications**
+**Publications**  
  
-[Génio L et al. Biogeosciences 2013](http://dx.doi.org/10.5194/bg-10-5159-2013)
-[Cunha MR et al., PloS ONE 2013](http://dx.doi.org/10.1371/journal.pone.0076688)
+[Génio L et al. Biogeosciences 2013](http://dx.doi.org/10.5194/bg-10-5159-2013)  
+[Cunha MR et al., PloS ONE 2013](http://dx.doi.org/10.1371/journal.pone.0076688)  
