@@ -24,7 +24,7 @@ description: My personal page
 # List of links in the navigation bar
 navbar-links:
   about me: "aboutme"
-  phd project:
+  phd project: "phd_project"
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
  #   - Learn markdown: "http://www.markdowntutorial.com/"
  #   - GitHub Pages: "https://pages.github.com/"
