@@ -5,8 +5,8 @@ subtitle:
 published: true
 ---
 **Fábio L. Matos**
-_PhD Student_
-University of Aveiro @ Department of Biologia & CESAM
+_PhD Student_  
+University of Aveiro @ Department of Biologia & CESAM  
 fmatos@ua.pt
 
 **Education**
