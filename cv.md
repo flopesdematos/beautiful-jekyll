@@ -19,9 +19,11 @@ fmatos@ua.pt
 
 **Experience**
  
-2011/2013 - DeepForams Research Grant _Univ of Aveiro & IPMA_
-2011/2011 - Research Assistant _Univ Pierre et Marie Curie_
-2009/2011 - CHEMECO Research Grant _Univ of Aveiro_
+2011/2013 - DeepForams Research Grant _Univ of Aveiro & IPMA_  
+
+2011/2011 - Research Assistant _Univ Pierre et Marie Curie_  
+
+2009/2011 - CHEMECO Research Grant _Univ of Aveiro_  
  
 **Projects**
  
@@ -35,15 +37,18 @@ fmatos@ua.pt
  
 **Grants & Awards**
  
-2016 - INCISE Symposium Travel Award
-2007 - Portuguese-Brazilian Santander University _Scholarships Programme_
+2016 - INCISE Symposium Travel Award  
 
-**Research Cruises**
+2007 - Portuguese-Brazilian Santander University _Scholarships Programme_  
+
+**Research Cruises**  
  
-2014 | RV Belgica (cruise number 2014/15)
+2014 | RV Belgica (cruise number 2014/15)  
+
 2008 | Scientific Cruise TTR 17 - Leg 2
 
 **Working on**  
+
 Network analysis  
 Biophysical modeling  
 Deep-sea connectivity  
