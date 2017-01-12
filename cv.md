@@ -43,12 +43,11 @@ fmatos@ua.pt
 2014 | RV Belgica (cruise number 2014/15)
 2008 | Scientific Cruise TTR 17 - Leg 2
 
-**Working on**
- 
-Network analysis
-Biophysical modeling
-Deep-sea connectivity 
-Research mapping
+**Working on**  
+Network analysis  
+Biophysical modeling  
+Deep-sea connectivity  
+Research mapping  
 
 **Publications**  
  
