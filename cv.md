@@ -56,5 +56,5 @@ Research mapping
 
 **Publications**  
  
-[Génio L et al. Biogeosciences 2013](http://dx.doi.org/10.5194/bg-10-5159-2013)  
+[Génio L et al., Biogeosciences 2013](http://dx.doi.org/10.5194/bg-10-5159-2013)  
 [Cunha MR et al., PloS ONE 2013](http://dx.doi.org/10.1371/journal.pone.0076688)  
