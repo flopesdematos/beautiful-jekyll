@@ -9,5 +9,8 @@ I’m a PhD student in the Department of Biology & CESAM at the University of Av
 **what I do:**  
 working with ecological and biophysical modeling combined with network analysis to study submarine canyons connectivity for management and conservation purposes.
 
+ - Data analytics, data visualization and rstats enthusiast 
+ - [moved by coffee]
+
 **where to find me:**  
-LEME | Department of Biology - University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal
+LEME | Department of Biology - University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal  
