@@ -49,10 +49,14 @@ fmatos@ua.pt
 
 ### **Working on**  
 
-Network analysis  
+Network analysis
+
 Biophysical modelling
+
 Ecological niche modelling
-Deep-sea connectivity  
+
+Deep-sea connectivity
+
 Research mapping  
 
 ### **Publications**  
