@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring the submarine canyon research landscape
-image:
+image:./img/paper_header.png
 ---
 
 The first paper of my Ph.D. is out 🎉 
@@ -10,5 +10,5 @@ This work resulted from a collaboration with scientists of the _International Ne
 
 You can check all about this paper [here](https://www.sciencedirect.com/science/article/pii/S0079661117302744), and interact with the data on this [Shiny app](https://canyons-research-mapping.shinyapps.io/canyons-sci-landscape/). 
 
-
+![](/img/fig5_300mpi.png)
 
