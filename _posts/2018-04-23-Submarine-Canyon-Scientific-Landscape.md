@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring the submarine canyon research landscape
-image:/img/fig5_300mpi.png
+image: /img/fig5_300mpi.png
 ---
 
 The first paper of my Ph.D. is out 🎉 
