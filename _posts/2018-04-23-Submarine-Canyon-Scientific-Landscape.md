@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring the submarine canyon research landscape
-image:<div style="text-align:center"><img src="./img/paper_header.png">
+image: /img/paper_header.png
 ---
 
 The first paper of my Ph.D. is finally out 🎉 
