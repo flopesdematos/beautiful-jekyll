@@ -61,5 +61,8 @@ Research mapping
 
 ### **Publications**  
  
-1. [Génio L et al., Biogeosciences 2013](http://dx.doi.org/10.5194/bg-10-5159-2013)  
-2. [Cunha MR et al., PloS ONE 2013](http://dx.doi.org/10.1371/journal.pone.0076688)  
+[Matos FL et al., Progress in Oceanography 2018](https://www.sciencedirect.com/science/article/pii/S0079661117302744) 
+
+[Génio L et al., Biogeosciences 2013](http://dx.doi.org/10.5194/bg-10-5159-2013)  
+
+[Cunha MR et al., PloS ONE 2013](http://dx.doi.org/10.1371/journal.pone.0076688)  
