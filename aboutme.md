@@ -4,13 +4,15 @@ title: About me
 subtitle: marine biologist • deep-sea • phd student
 published: true
 ---
-I’m a PhD student at the Department of Biology & CESAM (University of Aveiro, Portugal), supervised by [Marina R. Cunha](http://www.cesam.ua.pt/index.php?tabela=pessoaldetail&menu=198&user=82) and Joan B. Company (CSIC-ICM @ Spain)
+Currently I'm a researcher at the Department of Environment and Planning (University of Aveiro, Portugal), working on the INTERREG project [CephsandChefs - Octopus, squid, cuttlefish, sustainable fisheries and chefs](https://www.cephsandchefs.com/).
 
 **what I do:**  
-working with ecological and biophysical modeling combined with network analysis to study submarine canyons connectivity for management and conservation purposes.
 
- - Data analytics, data visualization and rstats enthusiast 
+ - Data analytics
+ - Ecological Modelling
+ - Data visualization  
+ - R-stats enthusiast 
  - [moved by coffee]
 
 **where to find me:**  
-LEME | Department of Biology - University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal  
+COPING | Department of Environment and Planning - University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal  
