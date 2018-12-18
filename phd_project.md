@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PhD project | 2014-2018
-subtitle: connecting dots
+title: PhD project
+subtitle: connecting dots | 2014-2018
 published: true
 ---
 Submarine canyons are complex and heterogeneous geomorphologic structures highly relevant for the biodiversity and productivity 
