@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PhD project
+title: PhD project | 2014-2018
 subtitle: connecting dots
 published: true
 ---
@@ -11,3 +11,7 @@ act synergistically with these changes with implications to population connectiv
 preservation. Through the use of network analysis I aim to study species distribution patterns and habitat connectivity in canyons
 and contribute to understand deep-sea connectivity and its conservation.  
 ![dots](/img/0bcb81_0cc2e159f0844411beb6f8c80ea9d22a~mv2.gif)
+
+### **Outputs**  
+ 
+[Matos FL et al., Progress in Oceanography 2018](https://www.sciencedirect.com/science/article/pii/S0079661117302744) 
