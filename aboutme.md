@@ -6,7 +6,7 @@ published: true
 ---
 Currently I'm a researcher at the Department of Environment and Planning (University of Aveiro, Portugal), working on the INTERREG project [CephsandChefs - Octopus, squid, cuttlefish, sustainable fisheries and chefs](https://www.cephsandchefs.com/).
 
-**what I do:**  
+**what I (like to) do:**  
 
  - Data analytics
  - Ecological Modelling
