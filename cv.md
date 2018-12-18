@@ -5,13 +5,13 @@ subtitle:
 published: true
 ---
 ## **Fábio L. Matos**  
-_PhD Student_  
-University of Aveiro @ Department of Biologia & CESAM  
+_Researcher_  
+University of Aveiro @ Department of Environment and Planning & CESAM  
 fmatos@ua.pt
 
 ### **Education**
  
-2014/present - Phd Student in Biology and Ecology of Global Change
+2014/2018 - PhD in Biology and Ecology of Global Change
  
 2008/2010 - MSc in Ecology, Biodiversity and Ecosystems Management
  
