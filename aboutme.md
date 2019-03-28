@@ -8,11 +8,11 @@ Currently I'm a researcher at the Department of Environment and Planning (Univer
 
 **what I (like to) do:**  
 
- - Data analytics
  - Ecological Modelling
+ - Data analytics
  - Data visualization  
- - R-stats enthusiast 
- - [moved by coffee]
+ 
+ [R-stats enthusiast | moved by coffee | ocassional dancer]
 
 **where to find me:**  
 COPING | Department of Environment and Planning - University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal  
