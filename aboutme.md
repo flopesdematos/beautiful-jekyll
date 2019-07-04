@@ -4,7 +4,7 @@ title: About me
 subtitle: marine biologist • deep-sea
 published: true
 ---
-Currently I'm a researcher at the Department of Biology (University of Aveiro, Portugal), working on the project [EMSO-PT - European Multidisciplinary Seafloor Observatory - Portugal](http://www.cesam.ua.pt/index.php?menu=95&language=eng&tabela=projectosdetail&projectid=870) as a Auxiliary Researcher.
+Currently, I'm working in the Department of Biology of the University of Aveiro (Portugal) on the project [EMSO-PT - European Multidisciplinary Seafloor Observatory - Portugal](http://www.cesam.ua.pt/index.php?menu=95&language=eng&tabela=projectosdetail&projectid=870) as a Auxiliary Researcher.
 
 **what I (like to) do:**  
 
