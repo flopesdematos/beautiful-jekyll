@@ -5,8 +5,7 @@ subtitle:
 published: true
 ---
 ## **Fábio L. Matos**  
-_Auxiliary Researcher_ 
-University of Aveiro @ Department of Biology & CESAM  
+_Auxiliary Researcher_ • University of Aveiro @ Department of Biology & CESAM  
 fmatos@ua.pt
 
 ## **Professional summary**
