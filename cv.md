@@ -62,13 +62,10 @@ Fábio holds a Ph.D. in Biology and Ecology of Global Change and scientific back
 
 
 ### **Research cruises**  
- 
-2014 - RV Belgica (cruise number 2014/15)  
-
-2008 - Scientific Cruise TTR 17 - Leg 2
+  * 2014 - RV Belgica (cruise number 2014/15)  
+  * 2008 - Scientific Cruise TTR 17 - Leg 2
 
 ### **Working on**  
-
  * Network analysis
  * Biophysical modelling
  * Ecological niche modelling
