@@ -41,11 +41,11 @@ Fábio holds a Ph.D. in Biology and Ecology of Global Change and scientific back
 
 ## **Publications**
 ### Peer-Reviewed
-1.	[Matos FL, Ross SW, Huvenne VAI, Davies JS, Cunha MR, 2018. Canyon pride and prejudice: exploring the submarine canyon research landscape, a history of geographic and thematic bias. Progress in Oceanography. 10.1016/j.pocean.2018.04.010 (citations: 1)](https://www.sciencedirect.com/science/article/pii/S0079661117302744) 
+1.	[Matos FL, Ross SW, Huvenne VAI, Davies JS, Cunha MR, 2018. Canyon pride and prejudice: exploring the submarine canyon research landscape, a history of geographic and thematic bias. Progress in Oceanography. 10.1016/j.pocean.2018.04.010](https://www.sciencedirect.com/science/article/pii/S0079661117302744) (citations: 1)
    
-2. [Cunha MR, Matos FL, Génio L, Hilário A, Moura CJ, Ravara A, Rodrigues CF, 2013. Are organic falls bridging reduced environments in the deep sea? - Results from colonization experiments in the Gulf of Cadiz. PLoS One. 10.1371/journal.pone.0076688 (citations: 25)](http://dx.doi.org/10.1371/journal.pone.0076688)
+2. [Cunha MR, Matos FL, Génio L, Hilário A, Moura CJ, Ravara A, Rodrigues CF, 2013. Are organic falls bridging reduced environments in the deep sea? - Results from colonization experiments in the Gulf of Cadiz. PLoS One. 10.1371/journal.pone.0076688](http://dx.doi.org/10.1371/journal.pone.0076688) (citations: 26)
    
-3. [Génio L, Warén A, Matos FL, Cunha MR, 2013. The snails' tale in deep-sea habitats in the Gulf of Cadiz (NE Atlantic). Biogeosciences. 10.5194/bg-10-5159-2013 (citations: 8)](http://dx.doi.org/10.5194/bg-10-5159-2013)  
+3. [Génio L, Warén A, Matos FL, Cunha MR, 2013. The snails' tale in deep-sea habitats in the Gulf of Cadiz (NE Atlantic). Biogeosciences. 10.5194/bg-10-5159-2013](http://dx.doi.org/10.5194/bg-10-5159-2013) (citations: 8)
    
 ## **Reports**
  * 2019 | ICES. Interim Report of the Working Group on Cephalopod Fisheries and Life History (WGCEPH), 5–8 June 2018, Pasaia, San Sebastian, Spain. ICES CM 2018/EPDSG:12. 194 pp.
