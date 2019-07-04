@@ -11,8 +11,8 @@ Currently I'm a researcher at the Department of Biology (University of Aveiro, P
  - Ecological Modelling
  - Data analytics
  - Data visualization  
- 
- [R-stats enthusiast | moved by coffee | ocassional dancer]
+
+R-stats enthusiast • moved by coffee • ocassional dancer
 
 **where to find me:**  
 [Laboratory of Estuarine and Marine Ecology (LEME)](http://leme.web.ua.pt/leme/home.html) | Department of Biology - University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal  
