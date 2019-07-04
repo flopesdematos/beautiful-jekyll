@@ -5,7 +5,7 @@ subtitle:
 published: true
 ---
 ## **Fábio L. Matos**  
-_Auxiliary Researcher_ • University of Aveiro @ Department of Biology & CESAM  
+_Assistant Researcher_ • University of Aveiro @ Department of Biology & CESAM  
 fmatos@ua.pt
 
 ## **Professional summary**
@@ -21,9 +21,9 @@ Fábio holds a Ph.D. in Biology and Ecology of Global Change and scientific back
      - One semester at the Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP) - São Paulo, Brazil
 
 ## **Work experience**
- * 2019 - present Auxiliar Researcher
+ * 2019 - present • Assistant Researcher
    + Department of Biology & CESAM • University of Aveiro
- * 2018 - 2019 Scientific Research Grant (EAPA 282/2016) 
+ * 2018 - 2019 • Scientific Research Grant (EAPA 282/2016) 
    + Department of Environment and Planning & CESAM • University of Aveiro
  * 2011-2013 • Scientific Research Grant (PTDC/MAR/110082/2009)
    + Department of Biology & CESAM • University of Aveiro; Instituto Português do Mar e da Atmosfera, I.P.
