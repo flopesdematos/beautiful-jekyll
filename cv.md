@@ -12,31 +12,31 @@ fmatos@ua.pt
 Fábio holds a Ph.D. in Biology and Ecology of Global Change and scientific background in marine ecology. His research interests include the use of ecological modeling approaches in support of the conservation of marine ecosystems.
 
 ## **Academic degrees**
- * 2014 - 2018 / Ph.D. degree in Biology and Ecology of Global Change – Marine Biology and Ecology branch
+ * 2014/2018 - Ph.D. degree in Biology and Ecology of Global Change – Marine Biology and Ecology branch
    + University of Aveiro & University of Lisbon
- * 2009 - 2010	/ M.Sc. degree in Ecology, Biodiversity and Ecosystems Management
+ * 2009/2010	- M.Sc. degree in Ecology, Biodiversity and Ecosystems Management
    + University of Aveiro 
- * 2004 - 2008	/ Degree in Biology
+ * 2004/2008	- Degree in Biology
    + University of Aveiro
      - One semester at the Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP) - São Paulo, Brazil
 
 ## **Work experience**
- * 2019 - present / Assistant Researcher
+ * 2019/present - Assistant Researcher
    + Department of Biology & CESAM • University of Aveiro
- * 2018 - 2019 / Scientific Research Grant (EAPA 282/2016) 
+ * 2018/2019 - Scientific Research Grant (EAPA 282/2016) 
    + Department of Environment and Planning & CESAM • University of Aveiro
- * 2011-2013 / Scientific Research Grant (PTDC/MAR/110082/2009)
+ * 2011/2013 - Scientific Research Grant (PTDC/MAR/110082/2009)
    + Department of Biology & CESAM • University of Aveiro; Instituto Português do Mar e da Atmosfera, I.P.
- * 2009-2011 / Scientific Research Grant (EURODEEP/0001/2007) 
+ * 2009/2011 - Scientific Research Grant (EURODEEP/0001/2007) 
    + Department of Biology & CESAM • University of Aveiro
    
 ## **Collaboration in projects**
-  + 2019-present / EMSO-PT - European Multidisciplinary Seafloor Observatory - Portugal
-  + 2018-present / Cephs&Chefs - Octopus, squid, cuttlefish, sustainable fisheries and chefs
-  + 2014-2016 / MCES - The Economic Valuation and Governance of Marine and Coastal Ecosystem Services
-  + 2011-2014 / DeepForams - Deep-sea foraminifera from the Portuguese Margin
-  + 2010-2012 / HERMIONE - Hotspot Ecosystem Research and Man’s Impact on European Seas 
-  + 2009-2011 / CHEMECO - Monitoring colonization processes in chemosynthetic ecosystems
+  + 2019/present - EMSO-PT - European Multidisciplinary Seafloor Observatory - Portugal
+  + 2018/present - Cephs&Chefs - Octopus, squid, cuttlefish, sustainable fisheries and chefs
+  + 2014/2016 - MCES - The Economic Valuation and Governance of Marine and Coastal Ecosystem Services
+  + 2011/2014 - DeepForams - Deep-sea foraminifera from the Portuguese Margin
+  + 2010/2012 - HERMIONE - Hotspot Ecosystem Research and Man’s Impact on European Seas 
+  + 2009/2011 - CHEMECO - Monitoring colonization processes in chemosynthetic ecosystems
 
 ## **Publications**
 ### Peer-Reviewed
@@ -47,12 +47,12 @@ Fábio holds a Ph.D. in Biology and Ecology of Global Change and scientific back
 3. [Génio L, Warén A, Matos FL, Cunha MR, 2013. The snails' tale in deep-sea habitats in the Gulf of Cadiz (NE Atlantic). Biogeosciences. 10.5194/bg-10-5159-2013](http://dx.doi.org/10.5194/bg-10-5159-2013) (citations: 8)
    
 ## **Reports**
- * 2019 | ICES. Interim Report of the Working Group on Cephalopod Fisheries and Life History (WGCEPH), 5–8 June 2018, Pasaia, San Sebastian, Spain. ICES CM 2018/EPDSG:12. 194 pp.
- * 2015 | MCES Team. The Economic Valuation and Governance of Marine and Coastal Ecosystem Services. Progress Report Task A4. Study Site Characterization Assessment of the status and trends of marine and coastal Ecosystem Services. Gulbenkian Oceans Initiative.
+ * 2019 - ICES. Interim Report of the Working Group on Cephalopod Fisheries and Life History (WGCEPH), 5–8 June 2018, Pasaia, San Sebastian, Spain. ICES CM 2018/EPDSG:12. 194 pp.
+ * 2015 - MCES Team. The Economic Valuation and Governance of Marine and Coastal Ecosystem Services. Progress Report Task A4. Study Site Characterization Assessment of the status and trends of marine and coastal Ecosystem Services. Gulbenkian Oceans Initiative.
 
 ## **Thesis**
- * 2018 / PhD Thesis: Network analysis of submarine canyon seascapes – implications for planning and biodiversity management 
- * 2010 / Master Thesis: Colonisation of artificial substrates in chemosynthetic ecosystems
+ * 2018 - PhD Thesis: Network analysis of submarine canyon seascapes – implications for planning and biodiversity management 
+ * 2010 - Master Thesis: Colonisation of artificial substrates in chemosynthetic ecosystems
     + http://hdl.handle.net/10773/903
 
 ## **Participation in scientific networks**
@@ -61,8 +61,8 @@ Fábio holds a Ph.D. in Biology and Ecology of Global Change and scientific back
 
 
 ### **Research cruises**  
-  * 2014 / RV Belgica (cruise number 2014/15)  
-  * 2008 / Scientific Cruise TTR 17 - Leg 2
+  * 2014 - RV Belgica (cruise number 2014/15)  
+  * 2008 - Scientific Cruise TTR 17 - Leg 2
 
 ### **Working on**  
  * Network analysis
